@@ -31,7 +31,7 @@ namespace resolucaoCSharp.Models
             }
             else if (rankedBalance >= 21 && rankedBalance <= 50)
             {
-                 return "Prata";
+                return "Prata";
             }
             else if (rankedBalance >= 51 && rankedBalance <= 80)
             {
